@@ -44,7 +44,7 @@
 
     <!-- Dirty Tweaks -->
     <string name="dirtytweaks_title">Dirty Tweaks</string>
-    <string name="dirtytweaks_summary">PACINO MODS</string>
+    <string name="dirtytweaks_summary">Modded By Joe Pacino</string>
 
     <!-- DU version in About phone -->
     <string name="rom_version_title">DU version</string>
@@ -95,18 +95,18 @@
     <string name="duchangelog_settings">Settings</string>
 
     <!-- Developer options toast insulter -->
-    <string name="toast_insult_0">Hahaha, n00b!</string>
+    <string name="toast_insult_0">joe pacino dosent approve</string>
     <string name="toast_insult_1">What are you doing??</string>
     <string name="toast_insult_2">n00b alert!</string>
     <string name="toast_insult_3">What is this...? Amateur hour!?</string>
     <string name="toast_insult_4">This is not iOS</string>
     <string name="toast_insult_5">Please step away from the device!</string>
     <string name="toast_insult_6">error code: 1D10T</string>
-    <string name="toast_insult_7">Go outside</string>
+    <string name="toast_insult_7">dumbass</string>
     <string name="toast_insult_8">¯\\_(ツ)_/¯</string>
-    <string name="toast_insult_9">Pro tip: Stop doing this!</string>
+    <string name="toast_insult_9">Pro tip: use stock</string>
     <string name="toast_insult_10">Y u no speak Android???</string>
-    <string name="toast_insult_11">Why are you so stupid?!</string>
+    <string name="toast_insult_11">Why are you so ignant</string>
     <string name="toast_insult_12">Perhaps this Android thing is not for you...</string>
     <string name="toast_insult_13">Don't you have anything better to do?!</string>
     <string name="toast_insult_14">This is why nobody likes you...</string>
